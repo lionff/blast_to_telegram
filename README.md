@@ -11,3 +11,5 @@ pip install -r requirements.txt
 ACCESS_TOKEN берется из куков после авторизации на сайте бласта
 
 ![alt text](https://i.gyazo.com/d81fa7ef0484671d1e192bed6bc28c34.png)
+
+Бота вешаем впс в скринере или тмуксе
